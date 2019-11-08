@@ -25,6 +25,6 @@ public class SampleMain {
 			System.out.println(args[0]);
 		}
 		
-		System.out.println("end");
+		System.out.println("end application");
 	}
 }
